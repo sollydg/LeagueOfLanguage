@@ -7,7 +7,7 @@ To run LeagueOfLanguage programs, you'll need the LeagueOfLanguageInterpreter. T
 ## Instructions
 - `NUNU`: Push 0 onto the stack.
 - `LEBLANC`: Duplicate the top value of the stack.
-- `CAIT`: Add 1 to the top value of the stack.
+- `YUUMI`: Add 1 to the top value of the stack.
 - `ZAC`: Pops A and then B from the stack and pushes B - A to the stack.
 - `THRESH`: Takes one character of input and pushes its ASCII code to the stack.
 - `POPPY`: Pop the top value of the stack and print it as an ASCII character.
