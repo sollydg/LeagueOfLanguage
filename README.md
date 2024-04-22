@@ -14,7 +14,7 @@ To run LeagueOfLanguage programs, you'll need the LeagueOfLanguageInterpreter. T
 - `BLITZCRANK`: Takes one character of input and pushes its ASCII code to the stack.
 - `POPPY`: Pop the top value of the stack and print it as an ASCII character.
 - `HEIMER`: Pop the top value of the stack and print it as an integer.
-- `ANNIE` `n`: Pops and prints the stack one value at a time
+- `ANNIE`: Pops and prints the stack one value at a time
 - `KLED`: Pops the top of the stack (n) and then pops the stack again (x) and prints x n times
 - `KAYN`: Reverses the entire stack
 - `PYKE`: Terminate program execution.
